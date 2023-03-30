@@ -110,18 +110,3 @@ int main(){
 	printreport(allcourses);
 	
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-lab20/lab20_3.cpp at master · NMBxNIGHT/lab20
