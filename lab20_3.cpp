@@ -101,7 +101,7 @@ int main(){
 			if(textline == "---------------------------------------"){
 				state = 1;
 			}else{
-				student *p = findstudent(allstudents,atof(textline.c_str()))ว
+				student *p = findstudent(allstudents,atof(textline.c_str()));
 
 				allcourses[allcourses.size()-1].student_list.push_back(p);
 			}
